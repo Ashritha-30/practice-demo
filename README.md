@@ -1,2 +1,2 @@
-# Demo
+# practice-demo
 This is my first git repo
